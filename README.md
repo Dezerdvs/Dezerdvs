@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:00C2FF&height=220&section=header&text=Hi%2C%20I'm%20Viktor%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IoT%20%26%20Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:00C2FF&height=220&section=header&text=Hi%2C%20I%27m%20Viktor%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IoT%20%26%20Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18&v=2" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+IoT+systems+that+actually+ship;Flask+%2B+ESP32+%2B+real+sensors+%3D+DoughIoT;C%2B%2B+%7C+Python+%7C+C%23+%7C+Embedded;Turning+university+labs+into+real+software" alt="Typing SVG" />
 
@@ -105,7 +105,7 @@ ASP.NET Core Razor Pages + Entity Framework Core — a modern .NET web app.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dezerdvs&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dezerdvs&theme=tokyonight&hide_border=true&cache_bust=2" />
 </div>
 
 <br>
@@ -119,5 +119,5 @@ ASP.NET Core Razor Pages + Entity Framework Core — a modern .NET web app.
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:5865F2&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:5865F2&height=100&section=footer&v=2"/>
 </div>

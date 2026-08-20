@@ -28,26 +28,75 @@ I'm an Information Technology student (Information Systems & Technologies, IoT S
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍞 [DoughIoT](https://github.com/Dezerdvs/dough-iot-bakery-monitor)
+IoT bread-fermentation monitor — ESP32 sensors, Flask backend, real-time dashboard. Bachelor's thesis project.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![CI](https://github.com/Dezerdvs/dough-iot-bakery-monitor/actions/workflows/ci.yml/badge.svg)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [Algorithms & Data Structures](https://github.com/Dezerdvs/algorithms-data-structures-labs)
+AVL/Red-Black trees, Dijkstra & Floyd-Warshall, quicksort, hash tables — all from scratch.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CI](https://github.com/Dezerdvs/algorithms-data-structures-labs/actions/workflows/ci.yml/badge.svg)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Expert System / Frame Language](https://github.com/Dezerdvs/expert-system-frame-lang)
+A frame-based knowledge representation engine built from scratch, plus an NLP search layer on top.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CI](https://github.com/Dezerdvs/expert-system-frame-lang/actions/workflows/ci.yml/badge.svg)
+
+</td>
+<td width="50%" valign="top">
+
+### 💣 [Minesweeper (Qt)](https://github.com/Dezerdvs/minesweeper-qt)
+Full desktop Minesweeper — difficulty levels, timer, highscores, built with C++ and Qt Widgets.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![CI](https://github.com/Dezerdvs/minesweeper-qt/actions/workflows/ci.yml/badge.svg)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Telegram Bot](https://github.com/Dezerdvs/distributed-systems-pr4-level2)
+A working Telegram chat bot built in C# with the official Telegram.Bot SDK.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![CI](https://github.com/Dezerdvs/distributed-systems-pr4-level2/actions/workflows/ci.yml/badge.svg)
+
+</td>
+<td width="50%" valign="top">
+
+### 👤 [User Management Web App](https://github.com/Dezerdvs/distributed-systems-pr2-level2)
+ASP.NET Core Razor Pages + Entity Framework Core — a modern .NET web app.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![CI](https://github.com/Dezerdvs/distributed-systems-pr2-level2/actions/workflows/ci.yml/badge.svg)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<a href="https://github.com/Dezerdvs/dough-iot-bakery-monitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dezerdvs&repo=dough-iot-bakery-monitor&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Dezerdvs/algorithms-data-structures-labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dezerdvs&repo=algorithms-data-structures-labs&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Dezerdvs/expert-system-frame-lang">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dezerdvs&repo=expert-system-frame-lang&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Dezerdvs/minesweeper-qt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dezerdvs&repo=minesweeper-qt&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Dezerdvs/distributed-systems-pr4-level2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dezerdvs&repo=distributed-systems-pr4-level2&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Dezerdvs/distributed-systems-pr2-level2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dezerdvs&repo=distributed-systems-pr2-level2&theme=tokyonight&hide_border=true" />
-</a>
+**[→ See all 19 repositories](https://github.com/Dezerdvs?tab=repositories)**
 
 </div>
 
@@ -56,12 +105,15 @@ I'm an Information Technology student (Information Systems & Technologies, IoT S
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dezerdvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezerdvs&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dezerdvs&theme=tokyonight&hide_border=true" />
 </div>
 
+<br>
+
+## 🐍 Contribution Snake
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dezerdvs&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Dezerdvs/Dezerdvs/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br>
